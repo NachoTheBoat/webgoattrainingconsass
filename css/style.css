@@ -1,0 +1,31 @@
+.fondoIndex {
+  background-color: aquamarine;
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../media/hero\ 5.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+.fondoIndex section heroInicio {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#contacto2 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/media/hero\ 1\ real.png);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.fondoGaleria {
+  background-color: #212529;
+}
+
+#quienesSomos {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/media/hero\ 3.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/*# sourceMappingURL=style.css.map */

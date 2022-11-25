@@ -1,0 +1,24 @@
+
+$gradient: 0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5);
+
+   .fondoIndex{
+   background-color: aquamarine;
+   background-image: linear-gradient( 
+        $gradient
+    )
+    ,url(../media/hero\ 5.jpg);
+    height: 100vh;
+    background-size: cover;
+
+    section heroInicio{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+   
+   }
+   
+
+
+
+}
+

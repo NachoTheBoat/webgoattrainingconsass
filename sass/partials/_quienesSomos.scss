@@ -1,0 +1,11 @@
+$gradient: 0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5);
+
+#quienesSomos{
+    background-image:linear-gradient( 
+        $gradient),
+    url(/media/hero\ 3.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
